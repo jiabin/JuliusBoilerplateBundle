@@ -1,0 +1,12 @@
+# Define your custom routes here
+# Be sure to include this file
+# in your main routing configuration
+# 
+# Example:
+# 
+# JuliusBoilerplateBundle:
+    # resource: "@JuliusBoilerplateBundle/Resources/config/routing.yml"
+
+# demo:
+    # pattern: /demo
+    # defaults:  { _controller:  JuliusBoilerplateBundle:Default:index, name: 'Anonymous' }
