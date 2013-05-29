@@ -1,5 +1,7 @@
 # JuliusBoilerplateBundle
 
+[![knpbundles.com](http://knpbundles.com/jiabin/JuliusBoilerplateBundle/badge-short)](http://knpbundles.com/jiabin/JuliusBoilerplateBundle)
+
 Boilerplate (starter) bundle for Symfony2
 
 ## Enabling the bundle
